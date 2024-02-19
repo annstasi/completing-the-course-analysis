@@ -1,5 +1,5 @@
 # analysis
-## В файле Stepik_course_analysis.ipynb проведен анализ проходимости одного из курсов на платформе Stepik.  
+## В файле Stepik_course_analysis.ipynb проведен анализ проходимости одного из курсов на платформе Stepik   
 ### Стек: Python, pandas, sklearn, matplotlib
 
 **Проблема:**  
