@@ -1,5 +1,5 @@
 ## Проведен анализ проходимости одного из курсов на платформе Stepik   
-### Стек: Python: pandas, sklearn, matplotlib
+### Стек: Python (pandas, sklearn, matplotlib)
 Файл Stepik_course_analysis.ipynb
 
 **Проблема:**  
