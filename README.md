@@ -15,4 +15,4 @@
 — Логистическая регрессия  
 — Дерево решений  
 — Метод k-ближайших соседей  
-Подсчет метрик accuracy, precision, recall, F1-score и ROC AUC.
+Подсчет метрик accuracy, precision, recall, F1-score, ROC AUC и сравнение моделей.
